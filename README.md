@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Panattack
-- 👀 I’m interested in Programming and Computer Science
-- 🌱 I’m currently learning C++,but i am a beginner in python and also Java
-- 💞️ I’m looking to collaborate with anyone who is interested in making games
+- 👀 I’m interested in Programming and Computer Science.Currently a 3rd year student!
+- 🌱 Most programming languages used:Python,C++,Java,C
 - 📫 How to reach me ...()
 
 <!---
