@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming and Computer Science.Currently a 3rd year student!
 - 🌱 Most programming languages used:Python,C++,Java,C
 - 📫 How to reach me ...()
-[<img src="https://img.shields.io/badge/#3776AB.svg?logo=LOGO">](<LINK>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!-- python dev:#3776AB
 c++ dev:#00599C
 Unity:#FFFFFF
