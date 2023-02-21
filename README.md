@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Computer Science.Currently a 3rd year student!
 - 🌱 Most programming languages used:Python,C++,Java,C
 - 📫 How to reach me ...(triantpanos30@gmail.com)
-- <img title="a title" alt="Alt text" style="width:25px;height:25px" src="https://simpleicons.org/icons/python.svg"> <img title="a title" alt="Alt text" style="width:25px;height:25px" src="https://simpleicons.org/icons/cplusplus.svg">
+- <img title="a title" alt="Alt text" style="width:25px;height:25px" src="https://simpleicons.org/icons/python.svg"> <img title="a title" alt="Alt text" style="width:25px;height:25px;color:white" src="https://simpleicons.org/icons/cplusplus.svg">
 
 
 <!---
