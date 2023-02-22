@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Panattack
+## 👋 Hi, I’m @Panattack
 - 👀 Currently studying Cs as an undergraduate student in AUEB!
 - 🌱 Most programming languages used: <img title="Python" alt="Alt text" style="width:25px;height:25px" src="https://simpleicons.org/icons/python.svg"> <img title="C++" alt="Alt text" style="width:25px;height:25px;" src="https://simpleicons.org/icons/cplusplus.svg">
 - Interest in Machine Learning🧠, AI🤖
