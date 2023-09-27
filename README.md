@@ -16,14 +16,14 @@
    <img title="Numpy" alt="Alt text" style="width:40px;height:40px;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"> 
    <img title="Microsoft Visual Studio" alt="Alt text" style="width:40px; height:40px;" src="https://cdn-icons-png.flaticon.com/128/906/906324.png"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40px" height="40px" &nbsp;>
-   <img src="https://icons8.com/icon/w1Gq29w4RQWL/intellij-idea" title="VSCode" alt="VSCode" width="40px" height="40px" &nbsp;>
+   <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40" &nbsp;>
 </div>
 
 ## 🌐 How to reach me
 *** 
  - >  <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> : ```triantpanos30@gmail.com```
  - >  <img title="LinkedIn" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"> [Link in Bio](https://www.linkedin.com/in/panos-triantafillidis-709aa927b/)
-
+ - > <img title="Discord" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png"> [Link in Bio](https://www.discordapp.com/users/767782811942912010)
 ## 🔥 My Stats
 *** 
   > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack)](https://git.io/streak-stats)
