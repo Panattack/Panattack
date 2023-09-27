@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Panos Triantafillidis (alias Panattack), a future software developer!
-***
-- >  <img title="Coding" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Currently studying CS as an undergraduate student in AUEB.
-- > <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```
-- >  <img title="" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/4046/4046911.png"> Interest in **Machine Learning** - <img title="Neural Networks" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6969/6969098.png">, **AI** - 🤖, **Game development** -  <img title="Game Dev" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/5812/5812987.png">, ***Software Engineering & Development*** - <img title="SWE/D" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png">
+- > <h3> <img title="Coding" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Currently studying CS as an undergraduate student in AUEB.</h3>
+- > <h3> <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> <b>triantpanos30@gmail.com</b> </h3>
+- > <h3> <img title="" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/4046/4046911.png"> Interest in Machine Learning - <img title="Neural Networks" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6969/6969098.png">, AI - 🤖, Game development -  <img title="Game Dev" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/5812/5812987.png">, Software Engineering & Development - <img title="SWE/D" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png"> </h3>
 
 ## ⌨ Most programming (or non) languages used in free time & projects (GPL) & (DLS)
 <div align='center'>
@@ -37,6 +36,15 @@
 <div align='center'>
     <a href='https://www.linkedin.com/in/panos-triantafillidis-709aa927b'><img title="LinkedIn" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"></a>
     <a href='https://www.discordapp.com/users/767782811942912010'> <img title="Discord" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png"></a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/panos-triantafillidis-709aa927b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.discordapp.com/users/767782811942912010" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 ## 🔥 My Stats
