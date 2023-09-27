@@ -38,15 +38,6 @@
     <a href='https://www.discordapp.com/users/767782811942912010'> <img title="Discord" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png"></a>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/panos-triantafillidis-709aa927b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.discordapp.com/users/767782811942912010" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
-
 ## 🔥 My Stats
    > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack)](https://git.io/streak-stats)
  
