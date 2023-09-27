@@ -6,7 +6,10 @@
 - >  👨🏻‍💻 Platforms and frameworks used: <img title="Unity" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png"> <img title="Django" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png"> <img title="Android Studio" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/270/270780.png"> <img title="Git" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png"> <img title="Gitlab" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png"> <img title="Github" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png"> 
 - >  <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> How to reach me: ```triantpanos30@gmail.com```
 - >  <img title="LinkedIn" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"> [Link in Bio](https://www.linkedin.com/in/panos-triantafillidis-709aa927b/)
-- > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack)](https://git.io/streak-stats)
+*** 🔥 My Stats
+  > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack)](https://git.io/streak-stats)
+*** ⌨️ Languages
+  > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanattackM&layout=compact)
 <!---
 Panattack/Panattack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
