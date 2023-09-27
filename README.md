@@ -21,9 +21,11 @@
 
 ## 🌐 How to reach me
 *** 
- - >  <img title="Gmail" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```
- - >  <img title="LinkedIn" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"> [Link in Bio](https://www.linkedin.com/in/panos-triantafillidis-709aa927b/)
- - > <img title="Discord" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png"> [Link in Bio](https://www.discordapp.com/users/767782811942912010)
+<div align='center'
+    <img title="Gmail" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```
+    [<img title="LinkedIn" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png">](https://www.linkedin.com/in/panos-triantafillidis-709aa927b/)
+    [<img title="Discord" alt="Alt text" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png">](https://www.discordapp.com/users/767782811942912010)
+</div>
 ## 🔥 My Stats
 *** 
   > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack)](https://git.io/streak-stats)
