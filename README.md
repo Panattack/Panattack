@@ -39,9 +39,10 @@
 </div>
 
 ## 🔥 My Stats
-   > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Panattack&hide=issues,prs&include_all_commits=true&show_icons=true&rank_icon=github&text_bold=false&theme=tokyonight&border_radius=20&text_color=94e2d5&bg_color=1e1e2e) <!---->
+   > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Panattack&hide=issues,prs&include_all_commits=true&show_icons=true&rank_icon=github&text_bold=false&theme=tokyonight&border_radius=20&text_color=94e2d5&bg_color=1e1e2e)
    > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panattack&theme=catppuccin-mocha&border_radius=20)](https://git.io/streak-stats)
    > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panattack&layout=compact&theme=tokyonight&border_radius=20&text_color=94e2d5&bg_color=1e1e2e)
+
 ## ⌨️ Languages
    > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panattack&layout=compact)
 <!---
