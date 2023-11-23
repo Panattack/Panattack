@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m Panos Triantafillidis (alias Panattack), a future software developer!
-- > <img title="Coding" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Currently studying CS as an undergraduate student in AUEB.
-- > <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```.
-- > <img title="" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/4046/4046911.png"> Interest in **Machine Learning** - <img title="Neural Networks" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6969/6969098.png">, **AI** - 🤖, **Game development** -  <img title="Game Dev" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/5812/5812987.png">, **Software Engineering & Development** - <img title="SWE/D" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png">.
+## ℹ️ A little info about me
+- #### <img title="Coding" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Currently studying CS as an undergraduate student in AUEB.
+- #### <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```.
+- #### <img title="" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/4046/4046911.png"> Interest in **Machine Learning** - <img title="Neural Networks" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6969/6969098.png">, **AI** - 🤖, **Game development** -  <img title="Game Dev" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/5812/5812987.png">, **Software Engineering & Development** - <img title="SWE/D" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png">.
 
 ## ⌨ Most programming (or non) languages used in free time & projects (GPL) & (DLS)
 <div align='center'>
