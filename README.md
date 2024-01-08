@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Panos Triantafillidis (alias Panattack), a future software developer!
+## 👋 Hi, I’m Panos Triantafillidis (alias Panattack), a future software developer & engineer!
 ## ℹ️ A little info about me
 - #### <img title="Coding" alt="Alt text" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Currently studying CS as an undergraduate student in AUEB.
 - #### <img title="Gmail" alt="Alt text" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ```triantpanos30@gmail.com```.
