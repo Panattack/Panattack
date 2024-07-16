@@ -11,10 +11,12 @@
    <img title="C#" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"> 
    <img title="Java" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"> 
    <img title="Kotlin" alt="Alt text" style="width:40px;height:40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"          &nbsp;>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" &nbsp;>
+   <img title="TypeScript" alt="Alt text" style="width:40px;height:40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"> 
    <img title="SQL" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
    <img title="CSS" alt="Alt text" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
+   
 </div>
 
 ## 👨🏻‍💻 Platforms and frameworks used
@@ -34,6 +36,11 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL" alt="PostgresSQL" width="40"       height="40" &nbsp;>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"       height="40" &nbsp;>
    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40" &nbsp;>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" title="NestJs" alt="NestJs" width="40" height="40" &nbsp;>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="MySQL" width="40" height="40" &nbsp;>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" title="PyTorch" alt="PyTorch" width="40" height="40" &nbsp;>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40" &nbsp;>
+
 </div>
 
 ## 🌐 How to reach me
