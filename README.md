@@ -8,8 +8,8 @@
 - :computer: **Current Job**: Software Developer Engineer as intern in [Helvia.ai](https://helvia.ai/)
 - 🌱 **Interests**: 
   - **Machine Learning** & **Artificial Intelligence** 🤖
-  - **Game Development**
-  - **Software Engineering** & **Development**
+  - **Game Development** :video_game: 
+  - **Software Engineering** & **Development** 👩🏻‍💻
 - 💬 **Contact**: Feel free to reach out via email at: [triantpanos30@gmail.com](mailto:triantpanos30@gmail.com)
 
 ---
