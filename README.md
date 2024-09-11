@@ -4,7 +4,7 @@
 
 ### ℹ️ About Me
 
-- 🔭 **Current Role**: Undergraduate student pursuing a BSc in Computer Science at **Athens University of Economics and Business (AUEB)**.
+- 🔭 **Current Studies**: Undergraduate student pursuing a BSc in Computer Science at `Athens University of Economics and Business (AUEB)`.
 - :computer: **Current Job**: Software Developer Engineer as intern in [Helvia.ai](https://helvia.ai/)
 - 🌱 **Interests**: 
   - **Machine Learning** & **Artificial Intelligence** 🤖
