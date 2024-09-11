@@ -79,13 +79,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-<img src="https://github.pumbas.net/api/contributions/Panattack" alt="Panattack's Contributions"/>
-</div>
-
----
-
 ### 📜 Top Languages
 
 <div align="center">
