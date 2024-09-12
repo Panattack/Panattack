@@ -40,12 +40,10 @@
   <img src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png" title="Git" alt="Git" width="40" height="40">&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" title="GitLab" alt="GitLab" width="40" height="40">&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40">&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40">&nbsp;
   <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40">&nbsp;
