@@ -7,6 +7,8 @@
 - 🔭 **Completed Studies**: BSc in Computer Science at `Athens University of Economics and Business (AUEB)`.
 - :computer: **Previous Jobs**:
   - 1 July 2024 to 30 September 2024 - Software Developer Engineer as intern in [Helvia.ai](https://helvia.ai/)
+  - 7 March 2025 to 21 October 2025 - IT Support & Network Engineer at Hellenic Army in Hellenic Army Information Technology Support Center
+  - 17 November 2025 to Current Date - Custom Software Engineer Associate in Accenture Greece
 - 🌱 **Interests**: 
   - **Machine Learning** & **Artificial Intelligence** 🤖
   - **Game Development** :video_game: 
